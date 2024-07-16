@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #007bff;
+    text-align: center;
+    margin-top: 20px;
+}
+
+p {
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.navbar-brand {
+    font-size: 1.5em;
+    color: #007bff;
+}
+
+.navbar-nav .nav-item .nav-link {
+    font-size: 1.2em;
+}
+
+.navbar-nav .nav-item .nav-link.active {
+    font-weight: bold;
+    color: #0056b3;
+}
